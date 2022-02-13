@@ -21,3 +21,15 @@ Day 3 - 2-9-22
 - I did lose a day, but I did find information on how to make a windows program in Java.
 - I will build a basic argument-driven command line Java program, and then work on the
   Windows version.
+
+Days 4-6 - 2/12/22
+==================
+
+- Though some of the program didn't work out the way I expected it to for the interactive
+  menu and command line injection, I did go through and used older -- manual methods
+  so I can still achieve some of the same functionality.
+
+- I did leave off some features, as moving to intellij seemed more prudent at this point.
+
+- Check my portfolio page for this project to download the .zip file and read my notes and
+  my standup document @ http://agamedesigner.info/java.htm

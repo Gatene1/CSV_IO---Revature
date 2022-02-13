@@ -6,10 +6,9 @@ the results among two columns, and create a paging system for the results.
 Once a result is chosen, then the Pokedex entry will be displayed onscreen.
 
 Check the CHANGELOG.md for more information. I am keeping a standup that will be available on my portfolio once the program is completed a bit more.
-http://www.agamedesigner.info
+http://agamedesigner.info/java.htm
 
 Thank you for testing,
 
 ~David Riley
 david214@Revature.net
-!!
